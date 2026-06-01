@@ -1,2 +1,61 @@
-# Portfolio-Engineering-Data
+# Suwapitch-CV-Profile
 Technical Engineering Portfolio: Showcasing a proven track record in structural assessment, material specification, and technical troubleshooting. Featuring Master's research from Germany and Thailand focused on simulation-driven product validation and structural integrity.
+# 🛠️ Technical Service & Application Engineer Portfolio
+
+<div align="center">
+  <img src="https://img.shields.io/badge/ANSYS-Simulation-orange?style=for-the-badge&logo=ansys" alt="ANSYS">
+  <img src="https://img.shields.io/badge/IoT-Node--RED%20%7C%20MQTT-red?style=for-the-badge" alt="IoT">
+  <img src="https://img.shields.io/badge/Python-Machine%20Learning-blue?style=for-the-badge&logo=python" alt="Python">
+  <img src="https://img.shields.io/badge/Civil-Engineering-green?style=for-the-badge" alt="Civil Engineering">
+</div>
+
+---
+
+## 👤 About Me
+**Suwapitch Borwornpakvuddhiparami**  
+📍 Nonthaburi, Thailand | ✉️ suwapitch.borworn@outlook.com | 🔗 [LinkedIn](https://linkedin.com/in/suwapitch-borwornpakvuddhiparami)
+
+Civil and materials engineer with **8+ years of experience** spanning technical service, repair material specification, and application-focused problem solving across both field engineering (EGAT) and graduate-level research environments (Fraunhofer IWU, Germany).
+
+---
+
+## 🚀 Highlighted Engineering Projects
+
+### 1. 🌐 IoT-Based Joint Movement Monitoring (Building Facades)
+* **Concept:** Developed a conceptual monitoring workflow using **Node-RED** and **MQTT** to capture real-time thermal expansion and joint movement data.
+* **Impact:** Cross-referenced against silicone sealant elongation properties applying joint calculation and failure analysis knowledge to support predictive building maintenance.
+
+### 2. 🤖 Machine Learning for Silicone Sealant Performance Prediction
+* **Concept:** Building a **Python-based predictive model** to simulate long-term degradation of elastomeric sealants under UV and temperature cycling.
+* **Impact:** Integrating material science parameters with data analytics to support substrate compatibility analysis and technical troubleshooting.
+
+### 3. 🔬 Thermo-Mechanical Behavior of Composites (Fraunhofer IWU, Germany)
+* **Concept:** Investigated printed wire-reinforced polymer composites via FFF manufacturing using **ANSYS multiphysics simulation** (thermal steady-state + structural analysis).
+* **Visualized Result:** 
+  > 💡 *[คุณสามารถนำไฟล์ GIF หรือคลิปสั้นผลรัน ANSYS มาอัปโหลดใส่ตรงนี้ได้เลย]*
+* **Impact:** Validated simulation predictions against physical three-point bending tests and infrared thermography, demonstrating high alignment.
+
+---
+
+## 🛠️ Technical Skill Stack
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Engineering Simulation** | ANSYS (Mechanical, CFX), Fluid-Structure Interaction (FSI) |
+| **CAD & BIM** | AutoCAD, Autodesk Revit |
+| **Smart Tech & Data** | Python (Data Analytics), Node-RED, MQTT (IoT Architecture) |
+| **Core Competencies** | Material Characterization, Root Cause Analysis, Contractor Management |
+
+---
+
+## 📈 Work Experience & Education
+* **Independent Technical Development** (2025 - Present)
+* **Graduate Researcher** | Fraunhofer IWU, Dresden Germany (2023 - 2024)
+* **Civil Engineer (Technical Service)** | EGAT (2011 - 2017)
+* **M.Sc. Advanced Manufacturing** | Technische Universität Chemnitz, Germany
+* **M.Eng. & B.Eng. Civil Engineering** | Kasetsart University, Thailand
+
+---
+<div align="center">
+  <p>Feel free to reach out for collaboration or technical consultation!</p>
+</div>
