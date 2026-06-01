@@ -1,5 +1,6 @@
 # Suwapitch-CV-Profile
-Technical Engineering Portfolio: Showcasing a proven track record in structural assessment, material specification, and technical troubleshooting. Featuring Master's research from Germany and Thailand focused on simulation-driven product validation and structural integrity.
+Civil and materials engineer with 8+ years of experience spanning technical service, repair material specification, and application-focused problem solving — across both field engineering and graduate-level research environments. At EGAT, served as in-house technical engineer conducting building condition assessments, defining material and application standards, and managing specialist contractors to ensure structural integrity across the central building portfolio. Complemented by graduate research at Fraunhofer IWU (Germany) in material characterization, mechanical testing, and simulation-driven product validation — bridging laboratory material performance with real-world engineering application. Seeking a Technical Service or Application Engineer role where technical knowledge and structured problem solving create tangible value for both the business and its customers.
+
 # 🛠️ Technical Service & Application Engineer Portfolio
 
 <div align="center">
@@ -51,9 +52,11 @@ Civil and materials engineer with **8+ years of experience** spanning technical 
 ## 📈 Work Experience & Education
 * **Independent Technical Development** (2025 - Present)
 * **Graduate Researcher** | Fraunhofer IWU, Dresden Germany (2023 - 2024)
+* **Graduate Researcher** | Kasetsart University, Thailand (2013 - 2016)
 * **Civil Engineer (Technical Service)** | EGAT (2011 - 2017)
 * **M.Sc. Advanced Manufacturing** | Technische Universität Chemnitz, Germany
-* **M.Eng. & B.Eng. Civil Engineering** | Kasetsart University, Thailand
+* **M.Eng.Structural Technology for the Built Environment** | Kasetsart University, Thailand
+* **B.Eng. Civil Engineering** | Kasetsart University, Thailand
 
 ---
 <div align="center">
