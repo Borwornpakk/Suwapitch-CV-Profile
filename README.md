@@ -1,5 +1,5 @@
 # Suwapitch-CV-Profile
-Civil and materials engineer with 8+ years of experience spanning technical service, repair material specification, and application-focused problem solving — across both field engineering and graduate-level research environments. At EGAT, served as in-house technical engineer conducting building condition assessments, defining material and application standards, and managing specialist contractors to ensure structural integrity across the central building portfolio. Complemented by graduate research at Fraunhofer IWU (Germany) in material characterization, mechanical testing, and simulation-driven product validation — bridging laboratory material performance with real-world engineering application. Seeking a Technical Service or Application Engineer role where technical knowledge and structured problem solving create tangible value for both the business and its customers.
+Technical Engineering Portfolio: Showcasing a proven track record in structural assessment, material specification, and technical troubleshooting. Featuring Master's research from Germany and Thailand focused on simulation-driven product validation and structural integrity.
 
 # 🛠️ Technical Service & Application Engineer Portfolio
 
@@ -16,7 +16,7 @@ Civil and materials engineer with 8+ years of experience spanning technical serv
 **Suwapitch Borwornpakvuddhiparami**  
 📍 Nonthaburi, Thailand | ✉️ suwapitch.borworn@outlook.com | 🔗 [LinkedIn](https://linkedin.com/in/suwapitch-borwornpakvuddhiparami)
 
-Civil and materials engineer with **8+ years of experience** spanning technical service, repair material specification, and application-focused problem solving across both field engineering (EGAT) and graduate-level research environments (Fraunhofer IWU, Germany).
+Civil and materials engineer with 8+ years of experience spanning technical service, repair material specification, and application-focused problem solving — across both field engineering and graduate-level research environments. At EGAT, served as in-house technical engineer conducting building condition assessments, defining material and application standards, and managing specialist contractors to ensure structural integrity across the central building portfolio. Complemented by graduate research at Fraunhofer IWU (Germany) in material characterization, mechanical testing, and simulation-driven product validation — bridging laboratory material performance with real-world engineering application. Seeking a Technical Service or Application Engineer role where technical knowledge and structured problem solving create tangible value for both the business and its customers.
 
 ---
 
@@ -30,7 +30,7 @@ Civil and materials engineer with **8+ years of experience** spanning technical 
 * **Concept:** Building a **Python-based predictive model** to simulate long-term degradation of elastomeric sealants under UV and temperature cycling.
 * **Impact:** Integrating material science parameters with data analytics to support substrate compatibility analysis and technical troubleshooting.
 
-### 3. 🔬 Thermo-Mechanical Behavior of Composites (Fraunhofer IWU, Germany)
+### 3. 🔬 Mechanical Properties of Printed Wired-Reinforced Polymer Composite Under Intrinsic Heating (Fraunhofer IWU, Germany)
 * **Concept:** Investigated printed wire-reinforced polymer composites via FFF manufacturing using **ANSYS multiphysics simulation** (thermal steady-state + structural analysis).
 * **Visualized Result:** 
   > 💡 *[คุณสามารถนำไฟล์ GIF หรือคลิปสั้นผลรัน ANSYS มาอัปโหลดใส่ตรงนี้ได้เลย]*
@@ -49,15 +49,24 @@ Civil and materials engineer with **8+ years of experience** spanning technical 
 
 ---
 
-## 📈 Work Experience & Education
+## 📈 Work Experience
 * **Independent Technical Development** (2025 - Present)
 * **Graduate Researcher** | Fraunhofer IWU, Dresden Germany (2023 - 2024)
-* **Graduate Researcher** | Kasetsart University, Thailand (2013 - 2016)
+* **Graduate Researcher** | Kasetsart University, Thailand (2015 - 2016)
 * **Civil Engineer (Technical Service)** | EGAT (2011 - 2017)
-* **M.Sc. Advanced Manufacturing** | Technische Universität Chemnitz, Germany
-* **M.Eng.Structural Technology for the Built Environment** | Kasetsart University, Thailand
+  
+---
+
+## 🎓 Education 
+* **M.Sc. Advanced Manufacturing** | Technische Universität Chemnitz, Germany (2021 - 2024)
+* **M.Eng. Structural Technology for the Built Environment** | Kasetsart University, Thailand (2013 - 2016)
 * **B.Eng. Civil Engineering** | Kasetsart University, Thailand
 
+---
+
+## 🚀 Professional Training
+* **Design & Application of Steel Structures** | Engineering Institute of Thailand
+* **PMP Certification Exam Prep Course 35 PDU Contact Hours/PDU** | Technical Institute of America
 ---
 <div align="center">
   <p>Feel free to reach out for collaboration or technical consultation!</p>
