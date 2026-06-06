@@ -7,20 +7,21 @@
 <div align="center">
 
 <!-- ── Animated Typing Header ── -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B894&center=true&vCenter=true&width=600&lines=Structural+Engineer+%C3%97+IoT+Developer;Building+Intelligence+into+Structures;MSc+Advanced+Manufacturing+%7C+Germany;Open+to+Technical+%26+Application+Engineer+Roles)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=202836&center=true&vCenter=true&width=435&lines=Technical+Service+Engineer;IoT+%26+Structural+Innovation;Material+%26+Construction+Chemical)](https://git.io/typing-svg)
 
 <!-- ── Name & Tagline ── -->
 # 👋 Suwapitch Borwornpakvuddhiparami
 
-**Civil × Materials Engineer** who bridges physical structures and digital intelligence  
-`8+ yrs Field Engineering` · `Fraunhofer IWU, Germany` · `ANSYS · IoT · Python`
+Civil & Materials Engineer (8+ Years) | Building Maintenance & Graduate Research<Br>Expert in technical services, repair material specification, and application-focused problem solving.
 
 <br>
 
 <!-- ── Quick Contact Badges ── -->
 [![Email](https://img.shields.io/badge/Email-suwapitch.borworn%40outlook.com-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:suwapitch.borworn@outlook.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Suwapitch-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/suwapitch-borwornpakvuddhiparami)
 [![Location](https://img.shields.io/badge/Based_in-Nonthaburi%2C_Thailand-00B894?style=flat-square&logo=google-maps&logoColor=white)](https://maps.google.com/?q=Nonthaburi,Thailand)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-SuwapitchBorwornpakvuddhiparami-0A66C2?style=flat-square&logo=linkedin&logoColor=black)](https://linkedin.com/in/suwapitch-borwornpakvuddhiparami)
+
 
 </div>
 
