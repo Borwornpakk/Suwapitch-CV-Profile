@@ -116,9 +116,13 @@ Sensor → MQTT Broker → Node-RED → Data Processing → Dashboard
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Borwornpakk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B894&icon_color=00B894&text_color=ffffff)
+![Repos](https://img.shields.io/badge/Public_Repos-3-00B894?style=for-the-badge&logo=github)
+![Focus](https://img.shields.io/badge/Focus-IoT_%26_Structural-0078D4?style=for-the-badge)
+![Languages](https://img.shields.io/badge/Languages-Python_%7C_Node--RED-3776AB?style=for-the-badge&logo=python)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Borwornpakk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B894&text_color=ffffff)
+</div>
+
+</div>
 
 </div>
 
