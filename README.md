@@ -84,13 +84,13 @@ Sensor → MQTT Broker → Node-RED → Data Processing → Dashboard
 > Thermo-mechanical characterization + ANSYS multiphysics simulation validation
 
 - Investigated **FFF-printed wire-reinforced polymer composites** under intrinsic heating
-- Conducted 3-point bending tests with simultaneous **infrared thermography**
+- Conducted three-point bending tests with simultaneous **infrared thermography**
 - Applied **DSC** to determine Tg of PC and PETG matrices
 - Validated against coupled **ANSYS (thermal steady-state + structural)** simulation
 
 **Tech Stack:**
 ![ANSYS](https://img.shields.io/badge/ANSYS-Multiphysics-FFB71B?style=flat-square&logo=ansys&logoColor=black)
-![CAD](https://img.shields.io/badge/AutoCAD-Revit-E51050?style=flat-square&logo=autodesk&logoColor=white)
+![CAD](https://img.shields.io/badge/SolidWorks-E51050?style=flat-square&logo=autodesk&logoColor=white)
 
 ---
 
@@ -103,8 +103,9 @@ Sensor → MQTT Broker → Node-RED → Data Processing → Dashboard
 | 🔬 **Engineering Simulation** | ANSYS Mechanical · CFX · FSI (Fluid-Structure Interaction) |
 | 📡 **IoT & Smart Systems** | Node-RED · MQTT · Raspberry Pi · Sensor Integration |
 | 🐍 **Data & ML** | Python · Pandas · scikit-learn · Data Analytics |
-| 🏗️ **CAD & BIM** | AutoCAD · Autodesk Revit |
-| 🧱 **Materials Engineering** | Silicone Sealants · Waterproofing · Structural Coatings · DSC |
+| 🏗️ **CAD & BIM** | AutoCAD · Autodesk Revit · SolidWorks |
+| 🔥 **3D Printing** | Fused Filament Fabrication · G-Code · E3D ToolChanger · Superslicer
+| 🧱 **Materials Engineering** | Silicone Sealants · Waterproofing · Structural Coatings · DSC · Polymer Composite |
 | 🔍 **Core Methods** | Root Cause Analysis · Structural Assessment · Contractor Management |
 
 </div>
@@ -145,7 +146,7 @@ Sensor → MQTT Broker → Node-RED → Data Processing → Dashboard
 | M.Sc. Advanced Manufacturing | Technische Universität Chemnitz, Germany | 2024 |
 | M.Eng. Structural Technology | Kasetsart University, Thailand | 2016 |
 | B.Eng. Civil Engineering | Kasetsart University, Thailand | 2010 |
-| PMP Exam Prep (35 PDU) | Technical Institute of America | — |
+| PMP Certification Exam Prep Course 35 PDU Contact Hours/PDU | Technical Institute of America | 2025 |
 | Design of Steel Structures | Engineering Institute of Thailand | — |
 
 ---
