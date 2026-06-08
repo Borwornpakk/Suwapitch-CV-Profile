@@ -64,6 +64,10 @@ Sensor → MQTT Broker → Node-RED → Data Processing → Dashboard
 ![MQTT](https://img.shields.io/badge/MQTT-Protocol-660066?style=flat-square&logo=eclipse-mosquitto&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
+<a href="https://github.com/Borwornpakk/IoT-Building-Joint-Monitoring">
+  <img src="https://img.shields.io/badge/LINK-View_Repository-24292e?style=for-the-badge&logo=github&logoColor=white" alt="Go To Project" />
+</a>
+
 ---
 
 ### 🤖 ML Model — Silicone Sealant Degradation Prediction
@@ -77,6 +81,10 @@ Sensor → MQTT Broker → Node-RED → Data Processing → Dashboard
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+<a href="[https://github.com/Borwornpakk/IoT-Building-Joint-Monitoring](https://github.com/Borwornpakk/Predictive-Modeling-of-Silicone-Sealant-Degradation-)">
+  <img src="https://img.shields.io/badge/LINK-View_Repository-24292e?style=for-the-badge&logo=github&logoColor=white" alt="Go To Project" />
+</a>
 
 ---
 
@@ -101,12 +109,12 @@ Sensor → MQTT Broker → Node-RED → Data Processing → Dashboard
 | Domain | Tools & Technologies |
 |:---|:---|
 | 🔬 **Engineering Simulation** | ANSYS Mechanical · CFX · FSI (Fluid-Structure Interaction) |
-| 📡 **IoT & Smart Systems** | Node-RED · MQTT · Raspberry Pi · Sensor Integration |
+| 📡 **IoT & Smart Systems** | Node-RED · MQTT · Microcontrollers · Sensor Integration |
 | 🐍 **Data & ML** | Python · Pandas · scikit-learn · Data Analytics |
 | 🏗️ **CAD & BIM** | AutoCAD · Autodesk Revit · SolidWorks |
 | 🔥 **3D Printing** | Fused Filament Fabrication · G-Code · E3D ToolChanger · Superslicer
 | 🧱 **Materials Engineering** | Silicone Sealants · Waterproofing · Structural Coatings · DSC · Polymer Composite |
-| 🔍 **Core Methods** | Root Cause Analysis · Structural Assessment · Contractor Management |
+| 🔍 **Technical Expertise** | Root Cause Analysis · Structural Assessment · Contractor Management |
 
 </div>
 
@@ -143,16 +151,23 @@ Sensor → MQTT Broker → Node-RED → Data Processing → Dashboard
 
 ---
 
-## 🎓 Education & Certifications
+## 🎓 Education
 
 | Degree | Institution | Year |
 |:---|:---|:---:|
 | M.Sc. Advanced Manufacturing | Technische Universität Chemnitz, Germany | 2024 |
-| M.Eng. Structural Technology | Kasetsart University, Thailand | 2016 |
+| M.Eng. Structural Technology for the Built Environment | Kasetsart University, Thailand | 2016 |
 | B.Eng. Civil Engineering | Kasetsart University, Thailand | 2010 |
-| PMP Certification Exam Prep Course 35 PDU Contact Hours/PDU | Technical Institute of America | 2025 |
-| Design of Steel Structures | Engineering Institute of Thailand | — |
 
+## 🎓 Training & Certifications
+
+| Degree | Institution | Year |
+|:---|:---|:---:|
+| PMP Certification Exam Prep Course 35 PDU Contact Hours/PDU | Technical Institute of America | 2025 |
+| Steel Design and Connection Techniques by Unified Method  | Engineering Institute of Thailand | 2017 |
+| Building Management Engineering for Safety and Energy Efficiency  | Engineering Institute of Thailand | 2017 |
+| Design & Application of Steel Structures | Engineering Institute of Thailand | 2012 |
+| FACILITY MANAGEMENT  | Engineering Institute of Thailand | 2012 |
 ---
 
 ## 🌍 Languages
