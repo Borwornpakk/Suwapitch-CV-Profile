@@ -43,6 +43,10 @@ engineer = {
 
 I turn complex structural problems into engineered solutions — from diagnosing building failures on-site at EGAT, to validating polymer composites with ANSYS multiphysics at Fraunhofer IWU in Dresden. Now expanding into **predictive maintenance** by combining IoT sensor pipelines with machine learning.
 
+<a href="https://suwapitch-portfolio.notion.site/?source=copy_link">
+  <img src="https://img.shields.io/badge/Go_To_My_Portfolio-24292e?style=for-the-badge&logo=github&logoColor=white" alt="Go To My Portfolio" />
+</a>
+
 ---
 
 ## 🚀 Featured Projects
@@ -65,7 +69,7 @@ Sensor → MQTT Broker → Node-RED → Data Processing → Dashboard
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 <a href="https://github.com/Borwornpakk/IoT-Building-Joint-Monitoring">
-  <img src="https://img.shields.io/badge/LINK-View_Repository-24292e?style=for-the-badge&logo=github&logoColor=white" alt="Go To Project" />
+  <img src="https://img.shields.io/badge/Go_To_Project-24292e?style=for-the-badge&logo=github&logoColor=white" alt="Go To Project" />
 </a>
 
 ---
@@ -83,7 +87,7 @@ Sensor → MQTT Broker → Node-RED → Data Processing → Dashboard
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
 <a href="[https://github.com/Borwornpakk/IoT-Building-Joint-Monitoring](https://github.com/Borwornpakk/Predictive-Modeling-of-Silicone-Sealant-Degradation-)">
-  <img src="https://img.shields.io/badge/LINK-View_Repository-24292e?style=for-the-badge&logo=github&logoColor=white" alt="Go To Project" />
+  <img src="https://img.shields.io/badge/Go_To_Project-24292e?style=for-the-badge&logo=github&logoColor=white" alt="Go To Project" />
 </a>
 
 ---
@@ -159,10 +163,11 @@ Sensor → MQTT Broker → Node-RED → Data Processing → Dashboard
 | M.Eng. Structural Technology for the Built Environment | Kasetsart University, Thailand | 2016 |
 | B.Eng. Civil Engineering | Kasetsart University, Thailand | 2010 |
 
-## 🎓 Training & Certifications
+## 📖 Training & Certifications
 
-| Degree | Institution | Year |
+| Training | Institution | Year |
 |:---|:---|:---:|
+| SMART FACTORY| AHRDA | 2026 |
 | PMP Certification Exam Prep Course 35 PDU Contact Hours/PDU | Technical Institute of America | 2025 |
 | Steel Design and Connection Techniques by Unified Method  | Engineering Institute of Thailand | 2017 |
 | Building Management Engineering for Safety and Energy Efficiency  | Engineering Institute of Thailand | 2017 |
@@ -179,12 +184,16 @@ Sensor → MQTT Broker → Node-RED → Data Processing → Dashboard
 ---
 
 <div align="center">
+    
+
 
 **🤝 Open to Technical Service · Application Engineer · Field Engineering roles**
 
 *Feel free to reach out for collaboration or technical consultation!*
 
-[![Email Me](https://img.shields.io/badge/📩_Email_Me-suwapitch.borworn%40outlook.com-00B894?style=for-the-badge)](mailto:suwapitch.borworn@outlook.com)
-
+[![Email Me](https://img.shields.io/badge/📩_Email_Me-suwapitch.borworn%40outlook.com-00B894?style=for-the-badge)](mailto:suwapitch.borworn@outlook.com)<Br>
+<a href="https://suwapitch-portfolio.notion.site/?source=copy_link">
+  <img src="https://img.shields.io/badge/Go_To_My_Portfolio-24292e?style=for-the-badge&logo=github&logoColor=white" alt="Go To My Portfolio" />
+</a>
 </div>
 
